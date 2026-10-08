@@ -18,6 +18,7 @@ También fui cofundador de **GrúaFácil**, una plataforma para transportar tu v
 
 ## Conectemos
 
+[![Sitio web](https://img.shields.io/badge/Sitio_web-cristobalsanhueza.cl-1F2937?logo=googlechrome&logoColor=white)](https://cristobalsanhueza.cl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristóbal_Sanhueza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobal-sanhueza-rodriguez)
 [![Email](https://img.shields.io/badge/Email-cristobal.sanrodriguez@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:cristobal.sanrodriguez@gmail.com)
 
